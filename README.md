@@ -247,13 +247,12 @@ Based on the analysis, the business could:
 ---
 
 # Repository Structure
-
-```text
+```
 ecommerce-customer-analytics/
 │
 ├── data/
 │   ├── raw/
-│   └── processed/          # Generated files excluded from Git
+│   └── processed/                         # Generated files excluded from Git
 │
 ├── notebooks/
 │   └── 01_data_quality_and_cleaning.ipynb
@@ -262,12 +261,14 @@ ecommerce-customer-analytics/
 │   └── 01_business_analysis.sql
 │
 ├── images/
-├── dashboard/
+│   ├── monthly_revenue_trend.png
+│   ├── top_products_revenue.png
+│   └── customer_segment_revenue.png
+│
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
-
 ---
 
 # Skills Demonstrated
