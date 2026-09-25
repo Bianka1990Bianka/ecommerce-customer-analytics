@@ -102,7 +102,7 @@ November 2011 increased approximately **36.17% month over month**, following a *
 This pattern suggests meaningful year-end seasonality in purchasing activity.
 
 > **Note:** December 2011 contains only partial-month data through December 9 and therefore should not be compared directly with complete months.
-
+![Monthly Net Revenue Trend](images/monthly_revenue_trend.png)
 ---
 
 ## Product Performance
@@ -118,7 +118,7 @@ After excluding non-merchandise entries such as postage and manual adjustments, 
 | JUMBO BAG RED RETROSPOT | 77,280 | **$145,961.83** |
 
 The analysis also identified unusually large transactions, demonstrating the importance of reviewing outliers before interpreting product or order-level KPIs.
-
+![Top 10 Merchandise Products by Revenue](images/top_products_revenue.png)
 ---
 
 ## Customer Analysis
@@ -128,7 +128,7 @@ Customer-level SQL aggregation was used to measure purchasing frequency, revenue
 The highest-revenue customer generated approximately **$580,987** across **145 positive-sales orders**.
 
 The analysis also uncovered customers with unusually high average order values, highlighting the need to distinguish typical purchasing behavior from extreme transactions.
-
+![Revenue by Customer Segment](images/customer_segment_revenue.png)
 ---
 
 ## Customer Segmentation
