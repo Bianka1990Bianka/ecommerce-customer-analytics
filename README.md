@@ -2,7 +2,17 @@
 # E-Commerce Customer Analytics
 
 ## Overview
+
+This project analyzes more than **1 million e-commerce transaction records** to uncover insights into revenue performance, customer behavior, product sales, returns, seasonality, and geographic markets.
+
+The analysis combines **Python, Pandas, Jupyter Notebook, SQL, SQLite, and Power BI** to demonstrate an end-to-end analytics workflow: cleaning raw transactional data, validating data quality, engineering business metrics, querying the cleaned dataset with SQL, and translating the results into actionable business insights.
+
 ## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to provide an executive-level view of sales and customer performance. It includes key KPIs, geographic revenue, customer segmentation, top-performing products, and monthly revenue trends.
+
+![E-Commerce Sales & Customer Analytics Dashboard](dashboard/dashboard_preview.png)
+
 
 An interactive Power BI dashboard was developed to provide an executive-level view of sales and customer performance. It includes key KPIs, geographic revenue, customer segmentation, top-performing products, and monthly revenue trends.
 
@@ -37,7 +47,8 @@ The analysis focuses on several key business questions:
 - **SQL**
 - **SQLite**
 - **Git & GitHub**
-
+- **Power BI**
+- **DAX**
 ---
 
 ## Dataset
@@ -259,6 +270,10 @@ ecommerce-customer-analytics/
 │   ├── raw/
 │   └── processed/                         # Generated files excluded from Git
 │
+├── dashboard/
+│   ├── dashboard_preview.png
+│   └── ecommerce_customer_analytics.pbix
+│
 ├── notebooks/
 │   └── 01_data_quality_and_cleaning.ipynb
 │
@@ -280,7 +295,7 @@ ecommerce-customer-analytics/
 
 This project demonstrates practical experience with:
 
-**Python • Pandas • NumPy • SQL • SQLite • Jupyter Notebook • Data Cleaning • Data Validation • Exploratory Data Analysis • KPI Development • Revenue Analysis • Customer Analytics • Customer Segmentation • Product Analysis • Window Functions • CTEs • Business Insight Generation • Git • GitHub**
+**Python • Pandas • NumPy • SQL • SQLite • Jupyter Notebook • Power BI • DAX • Data Cleaning • Data Validation • Exploratory Data Analysis • KPI Development • Revenue Analysis • Customer Analytics • Customer Segmentation • Product Analysis • Window Functions • CTEs • Business Insight Generation • Git • GitHub**
 
 ---
 
