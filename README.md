@@ -2,6 +2,11 @@
 # E-Commerce Customer Analytics
 
 ## Overview
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to provide an executive-level view of sales and customer performance. It includes key KPIs, geographic revenue, customer segmentation, top-performing products, and monthly revenue trends.
+
+![E-Commerce Sales & Customer Analytics Dashboard](dashboard/dashboard_preview.png)
 
 This project analyzes more than **1 million e-commerce transaction records** to uncover insights into revenue performance, customer behavior, product sales, returns, seasonality, and geographic markets.
 
